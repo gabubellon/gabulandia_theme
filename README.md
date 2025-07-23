@@ -2,6 +2,18 @@
 
 A minimal, clean theme for Marmite static site generator.
 
+## Demo
+
+ https://rochacbruno.github.io/marmite/theme_template/
+
+## Installation:
+
+```bash
+marmite your_folder --set-theme https://github.com/rochacbruno/mytheme
+```
+
+---
+
 ## Features
 
 - **Clean Design**: Minimal, distraction-free layout
@@ -159,7 +171,7 @@ The theme comes with these pre-built assets:
 To customize the theme further:
 
 1. **CSS**: Edit `static/style.css`
-2. **JavaScript**: Edit `static/script.js`  
+2. **JavaScript**: Edit `static/script.js`
 3. **Templates**: Modify files in `templates/`
 4. **Assets**: Replace or add images, fonts, etc. in `static/`
 5. **Fonts**: The theme includes Atkinson Hyperlegible font, or you can add your own
@@ -234,3 +246,8 @@ As of Marmite 0.2.6+, this theme template is **embedded directly in the Marmite 
 ## License
 
 This theme is released under the MIT License, same as Marmite.
+
+## SCreen Shots
+
+<img width="979" height="2503" alt="Image" src="https://github.com/user-attachments/assets/091efe1d-dbea-4b3b-a70c-5e1d9f4d42f7" />
+<img width="930" height="833" alt="Image" src="https://github.com/user-attachments/assets/5c3af5bd-8497-4a84-84bc-79736b93fd62" />
